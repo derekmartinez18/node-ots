@@ -1,0 +1,27 @@
+{
+  "name": "nodeots",
+  "version": "0.1.0",
+  "description": "nodejs module for OneTimeSecret API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derekmartinez18/node-ots.git"
+  },
+  "bugs": {
+    "url": "https://github.com/derekmartinez18/node-ots/issues"
+  },
+  "tags": [
+    "onetimesecret",
+    "api",
+    "wrapper",
+    "simple"
+  ],
+  "author": "Derek Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
