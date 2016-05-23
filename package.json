@@ -1,5 +1,5 @@
 {
-  "name": "nodeots",
+  "name": "node-ots",
   "version": "0.1.0",
   "description": "nodejs module for OneTimeSecret API",
   "main": "index.js",
